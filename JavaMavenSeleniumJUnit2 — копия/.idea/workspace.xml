@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/MarketChoicePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="219">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <caret line="60" lean-forward="true" selection-start-line="56" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -238,19 +238,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.12 at 19h 02m 18s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.12 at 19h 26m 18s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.12 at 19h 03m 33s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 47m 19s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.12 at 19h 11m 16s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 49m 52s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.12 at 19h 11m 52s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 50m 32s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.12 at 19h 12m 29s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 51m 07s.xml">
+      <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 53m 50s.xml">
+      <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 54m 19s.xml">
+      <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 55m 24s.xml">
+      <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 55m 50s.xml">
+      <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 56m 36s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -345,7 +360,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/MarketChoicePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <caret line="60" lean-forward="true" selection-start-line="56" selection-end-line="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

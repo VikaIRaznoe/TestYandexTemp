@@ -24,7 +24,7 @@ public class MarketChoicePage {
     /**
      * определение локатора ссылки "Электроника"
      */
-    @FindBy(xpath = "//*span[contains(text(),'Электроника')]")
+    @FindBy(xpath = "//span[contains(text(),'Электроника')]")
     public WebElement elektronikaLnk;
 
 
@@ -40,22 +40,29 @@ public class MarketChoicePage {
      * Нажимаем на ссылку "Электроника"
      */
     public void clickElektronikaLnk() throws InterruptedException {
+        //Вариант 1
         //не работает(тест падает)
 //        elektronikaLnk.click();
 
-        //Вариант 1
-        if (driver instanceof JavascriptExecutor) {
-            ((JavascriptExecutor) driver).executeScript("el = document.elementFromPoint(1, 200); el.click();");
-        }
-//        elektronikaLnk.click();
-
         //Вариант 2
-        waitForElementPresentRefact(By.xpath("//*span[contains(text(),'Электроника')]"),5).click();
+//        waitForElementPresentRefact(By.xpath("//span[contains(text(),'Электроника')]"),5).click();
 
         //Вариант 3
-//        Actions action = new Actions(driver);
-//        WebElement docDiv = waitForElementPresentRefact(By.xpath("//*span[contains(text(),'Электроника')]"),1);
-//        action.clickAndHold(docDiv).build().perform();
+//        if (driver instanceof JavascriptExecutor) {
+//            ((JavascriptExecutor) driver).executeScript("el = document.elementFromPoint(1, 200); el.click();");
+//        }
+//        elektronikaLnk.click();
+
+        //Вариант 4
+//        if (driver instanceof JavascriptExecutor) {
+//            ((JavascriptExecutor) driver).executeScript("el = document.elementFromPoint(1, 200); el.click();");
+//        }
+//        waitForElementPresentRefact(By.xpath("//span[contains(text(),'Электроника')]"),5).click();
+
+        //Вариант 5
+        Actions action = new Actions(driver);
+        WebElement docDiv = waitForElementPresentRefact(By.xpath("//span[contains(text(),'Электроника')]"),1);
+        action.clickAndHold(docDiv).build().perform();
 
     }
 }
