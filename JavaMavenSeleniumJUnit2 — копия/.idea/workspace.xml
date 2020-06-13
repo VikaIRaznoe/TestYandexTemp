@@ -39,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/MarketChoicePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="60" lean-forward="true" selection-start-line="56" selection-end-line="60" />
+            <state relative-caret-position="264">
+              <caret line="74" column="45" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -238,40 +238,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.12 at 19h 26m 18s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 57m 50s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 47m 19s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 58m 29s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 49m 52s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 59m 06s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 50m 32s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 15h 04m 54s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 51m 07s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 15h 06m 06s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 53m 50s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 15h 06m 52s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 54m 19s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 15h 07m 57s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 55m 24s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 15h 10m 05s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 55m 50s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 15h 11m 10s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 14h 56m 36s.xml">
+    <history-entry file="YandexTest_mainYandexPageTest - 2020.06.13 at 15h 13m 12s.xml">
       <configuration name="YandexTest.mainYandexPageTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1440" height="806" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -359,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/MarketChoicePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="60" lean-forward="true" selection-start-line="56" selection-end-line="60" />
+        <state relative-caret-position="264">
+          <caret line="74" column="45" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

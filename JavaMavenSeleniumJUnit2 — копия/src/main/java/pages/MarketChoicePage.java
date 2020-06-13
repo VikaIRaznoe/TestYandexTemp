@@ -60,9 +60,20 @@ public class MarketChoicePage {
 //        waitForElementPresentRefact(By.xpath("//span[contains(text(),'Электроника')]"),5).click();
 
         //Вариант 5
+//        if (driver instanceof JavascriptExecutor) {
+//            ((JavascriptExecutor) driver).executeScript("el = document.elementFromPoint(1, 200); el.click();");
+//        }
+//        elektronikaLnk.click();
+
+
+        //Вариант 6
+//        Actions action = new Actions(driver);
+//        WebElement docDiv = waitForElementPresentRefact(By.xpath("//span[contains(text(),'Электроника')]"),1);
+//        action.clickAndHold(docDiv).build().perform();
+
+        //Вариант 7
         Actions action = new Actions(driver);
-        WebElement docDiv = waitForElementPresentRefact(By.xpath("//span[contains(text(),'Электроника')]"),1);
-        action.clickAndHold(docDiv).build().perform();
+        action.clickAndHold(elektronikaLnk).build().perform();
 
     }
 }
